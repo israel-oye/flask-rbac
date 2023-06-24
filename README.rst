@@ -17,7 +17,7 @@ Installation
 Links
 -----
 
-- `Document <https://flask-rbac.readthedocs.org>`_
+- `Documentation <https://flask-rbac.readthedocs.org>`_
 - `Issue Track <https://github.com/shonenada/flask-rbac/issues>`_
 
 
